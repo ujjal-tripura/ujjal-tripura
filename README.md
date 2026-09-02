@@ -1,4 +1,4 @@
-# Hi, I'm Ujjjal Tripura 👋
+# Hi, I'm Ujjal Tripura 👋
 
 ### UI/UX Designer | Product Designer
 
@@ -85,9 +85,9 @@ business goals, technology, and accessibility.
 
 ## 🤝 Let's Connect
 
-- Portfolio: Coming Soon
-- LinkedIn: Coming Soon
-- Email: YOUR_EMAIL
+- Portfolio: https://www.behance.net/ujjaltripura015
+- LinkedIn: https://www.linkedin.com/in/ujjal-tripura-462023194/
+- Email: ujjal.tripura015@gmail.com
 
 ---
 
