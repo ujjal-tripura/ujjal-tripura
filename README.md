@@ -2,7 +2,7 @@
 
 ### UI/UX Designer | Product Designer
 
-I'm a UI/UX Designer with 4+ years of experience designing
+I'm a UI/UX Designer with 4 years of experience designing
 user-centered digital products across Healthcare, SaaS,
 Fintech, ERP, and Automotive domains.
 
